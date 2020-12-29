@@ -17,8 +17,8 @@ export default css`
     display: inline-block;
     color: white;
     text-decoration: inherit;
-    padding: 1em 3em;
-    margin: 1em 2em;
+    padding: 0.5em 1.5em;
+    margin: 1em 1.5em;
     border: 1px solid black;
     border-radius: 30%;
     background-color: hsl(210, 100%, 40%);
