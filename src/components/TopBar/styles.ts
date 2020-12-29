@@ -4,6 +4,7 @@ export default css`
   nav {
     background-color: hsl(210, 100%, 50%);
     box-shadow: 0 0.3rem 0.3rem hsla(0, 0%, 50%, 0.5);
+    width: 100%;
   }
   ul {
     margin: 0;
