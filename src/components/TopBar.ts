@@ -16,9 +16,6 @@ export class TopBar extends LitElement {
         display: flex;
         justify-content: center; 
       }
-      li {
-        
-      }
       a {
         display: inline-block;
         color: white;
