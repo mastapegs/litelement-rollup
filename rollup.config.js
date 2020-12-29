@@ -9,6 +9,7 @@ const production = !process.env.ROLLUP_WATCH;
 const copyConfig = {
   targets: [
     { src: 'src/index.html', dest: 'public' },
+    { src: 'src/styles.css', dest: 'public/css' }
   ],
 };
 

@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font: 12px/1.5 Arial, Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    font-size: 16px;
+  }
+}
